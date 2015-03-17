@@ -1,0 +1,1 @@
+Este proyecto es un trabajo práctico para la materia Actividades Académicas.
